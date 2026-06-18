@@ -20,4 +20,11 @@ Exploring whether waking up early actually makes you more productive, happier, a
 
 ## 🛠️ Tools Used
 
-![Python](https://img.shields.io/ba
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+## 📁 Dataset
+
+[Early Wakeup Health & Lifestyle Dataset](https://www.kaggle.com/) — 10,000 individuals
