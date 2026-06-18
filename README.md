@@ -1,2 +1,23 @@
-# early-waker-analysis
-Health &amp; lifestyle analysis — Early Wakers vs Night Owls using Python
+# 😴 Early Waker Analysis
+
+Exploring whether waking up early actually makes you more productive, happier, and less stressed.
+
+## 🔍 Key Findings
+
+- **Early Wakers** score **15% higher** on productivity than Night Owls
+- More sleep = more productivity — 8h+ sleepers outperform <5h sleepers
+- Early Wakers report **lower stress** and **better mood** consistently
+- Laborer is the most stressful occupation in the dataset
+
+## 📊 Charts Included
+
+| Chart | Question |
+|-------|----------|
+| Early Wakers vs Night Owls | Who performs better? |
+| Sleep Duration vs Productivity | How much sleep is enough? |
+| Most Stressful Occupations | Which jobs are hardest? |
+| Screen Time vs Sleep Quality | Does scrolling ruin sleep? |
+
+## 🛠️ Tools Used
+
+![Python](https://img.shields.io/ba
